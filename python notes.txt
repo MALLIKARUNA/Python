@@ -1,0 +1,13 @@
+I) python madoules
+some commnds is there 
+pip is module
+1) pip install  flask:Flask is a lightweight web framework in Python used to build
+2)pip install pyjokes:Pyjokes is a fun Python library that tells programming jokes 😂and its give the own program 
+3) pip install ptssx3:pyttsx3 is a Python library for text-to-speech.
+
+II)USING PYTHON AS A CALCULATOR
+we can use python as a calculator by typing "python " on the terminal 
+
+III)commands 
+* single line command:#
+* multiline command :""" content    """
